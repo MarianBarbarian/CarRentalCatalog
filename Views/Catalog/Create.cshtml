@@ -1,0 +1,90 @@
+@{
+    ViewData["Title"]= "Add car to catalog";
+}
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet">
+
+<link href="/css/createcar.css" rel="stylesheet">
+
+
+<h1>Register a vehicle in catalog</h1>
+
+<div class="row create-form">
+    
+  <div class="col-md-8 offset-3 form-container">
+    <div class="form-group row">
+      <label for="txtMake" class="col-2 col-form-label">Make:</label>
+      <div class="col-8">
+        <input id="txtMake" name="txtMake" type="text" class="form-control" placeholder="Make">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtModel" class="col-2 col-form-label">Model:</label>
+      <div class="col-8">
+        <input id="txtModel" name="txtModel" type="text" class="form-control" placeholder="Model">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtYear" class="col-2 col-form-label">Year:</label>
+      <div class="col-8">
+        <input id="txtYear" name="txtYear" type="number" class="form-control" placeholder="Year">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtDescription" class="col-2 col-form-label">Description:</label>
+      <div class="col-8">
+        <input id="txtDescription" name="txtDescription" type="text" class="form-control" placeholder="Description">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtColor" class="col-2 col-form-label">Color:</label>
+      <div class="col-8">
+        <input id="txtColor" name="txtColor" type="text" class="form-control" placeholder="Color">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtHp" class="col-2 col-form-label">HP:</label>
+      <div class="col-8">
+        <input id="txtHp" name="txtHp" type="number" class="form-control" placeholder="HP">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtRentPrice" class="col-2 col-form-label">Rental Price:</label>
+      <div class="col-8">
+        <input id="txtRentPrice" name="txtRentPrice" type="number" class="form-control" placeholder="Rental Price">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtPicture" class="col-2 col-form-label">Photo URL:</label>
+      <div class="col-8">
+        <input id="txtPicture" name="txtPicture" type="url" class="form-control" placeholder="Upload photo">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtGasMileage" class="col-2 col-form-label">Gas Mileage:</label>
+      <div class="col-8">
+        <input id="txtGasMileage" name="txtGasMileage" type="number" class="form-control" placeholder="Gas Mileage">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtPassengers" class="col-2 col-form-label">Passenger Space:</label>
+      <div class="col-8">
+        <input id="txtPassengers" name="txtPassengers" type="number" class="form-control" placeholder="Passenger Space">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="txtCargoSpace" class="col-2 col-form-label">Cargo Space:</label>
+      <div class="col-8">
+        <input id="txtCargoSpace" name="txtCargoSpace" type="number" class="form-control" placeholder="Cargo Space">
+      </div>
+    </div>
+    </div>
+</div>
+
+
+
+<div>
+    <button id="btnSave" class="btn btn-success btn-sm" name="submit" type="button">Save Car</button>
+</div>
+
+<script src="/js/createcar.js"></script>

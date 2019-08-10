@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Young Family\\Desktop\\CODE\\FSDI 110\\Day 2\\Day 2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Young Family\\Desktop\\CODE\\FSDI 110\\Day 2\\Day 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Young Family\\Desktop\\CODE\\FSDI 110\\Day 2\\Day 2.csproj",
+        "projectName": "Day 2",
+        "projectPath": "C:\\Users\\Young Family\\Desktop\\CODE\\FSDI 110\\Day 2\\Day 2.csproj",
+        "packagesPath": "C:\\Users\\Young Family\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Young Family\\Desktop\\CODE\\FSDI 110\\Day 2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Young Family\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

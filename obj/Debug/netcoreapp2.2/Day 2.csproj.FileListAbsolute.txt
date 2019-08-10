@@ -1,0 +1,35 @@
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\bin\Debug\netcoreapp2.2\Day 2.deps.json
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\bin\Debug\netcoreapp2.2\Day 2.runtimeconfig.json
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\bin\Debug\netcoreapp2.2\Day 2.runtimeconfig.dev.json
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\bin\Debug\netcoreapp2.2\Day 2.dll
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\bin\Debug\netcoreapp2.2\Day 2.pdb
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\bin\Debug\netcoreapp2.2\Day 2.Views.dll
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\bin\Debug\netcoreapp2.2\Day 2.Views.pdb
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.csprojAssemblyReference.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.csproj.CoreCompileInputs.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.RazorAssemblyInfo.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.RazorAssemblyInfo.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.AssemblyInfoInputs.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.AssemblyInfo.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.TagHelpers.input.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.TagHelpers.output.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.RazorCoreGenerate.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.RazorTargetAssemblyInfo.cache
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.RazorTargetAssemblyInfo.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.Views.pdb
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.dll
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.pdb
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Day 2.csproj.CopyComplete
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Index.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Create.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Representatives\Create.g.cshtml.cs
+C:\Users\Young Family\Desktop\CODE\FSDI 110\Day 2\obj\Debug\netcoreapp2.2\Razor\Views\Representatives\Index.g.cshtml.cs
